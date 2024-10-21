@@ -17,7 +17,7 @@
 10. Module 10: Take the Next Steps
 11. Data Analytics Essentials Final Exam
 
-[![alt text](image.png)](https://www.credly.com/badges/f900c52b-0368-407f-afef-8e8de930437c/public_url)
+![alt text](image.png)
 
 ##### Примечание
 1. Выполнение практических заданий курса на английском языке разделено:
